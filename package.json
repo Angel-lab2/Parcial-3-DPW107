@@ -1,0 +1,12 @@
+{
+  "name": "parcial-3-dpw107",
+  "version": "1.0.0",
+  "description": "Proyecto para Parcial 3 de DPW107",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
